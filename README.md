@@ -1,7 +1,7 @@
-- 👋 Hi, I am @LukasGadeMEA20 - aka. Gade Ravnsborg
-- I have experience with Python, Java, Shader, Unity and C#, but looking to expand my toolbox.
-- I am not yet sure what kind of programs I wanna develop, whether it be video games or software, so I am trying to do a bit of everything till I find out what I want to do.
-- I am currently developing an Adaptive VR Narrative using Unity at Aalborg University Copenhagen at their Masters in Medialogy.
+- 👋 Hi, I am @FreyaGadeMEA20 - aka. Freya Gade Ravnsborg
+- I have experience with Python, Java, Shader, Unity, and C#, but I am always looking to expand my toolbox.
+- I like to do a bit of everything regarding programming, but my strengths lie in getting tools to work together.
+  - Examples: Developing a tool in Unity for switching between Unity Timelines, getting a Python script to communicate with C# using UDP connections, controlling shaders through Unity Timelines
 - You can contact me through my student mail: lravns20@student.aau.dk
 
 <!---
